@@ -4,7 +4,7 @@
 
 CoinPulse is a responsive crypto market application that allows users to explore cryptocurrency prices, market statistics, search for coins, and view detailed information about individual cryptocurrencies through a clean and intuitive interface.
 
-The project focuses on building a production-style frontend with real-time cryptocurrency data, reusable components, API integration, responsive layouts, and a structured Next.js application architecture.
+The project focuses on building a production-style frontend with current cryptocurrency market data, reusable components, API integration, responsive layouts, and a structured Next.js application architecture.
 
 ## Features
 
@@ -22,6 +22,17 @@ The project focuses on building a production-style frontend with real-time crypt
 * Server-side API integration
 * Environment-based API configuration
 
+## Technical Highlights
+
+- Built with Next.js App Router and TypeScript
+- Implemented server-side cryptocurrency data fetching
+- Integrated CoinGecko REST APIs for market data
+- Created reusable components for coin cards, tables, search, and market statistics
+- Implemented dynamic routes for individual cryptocurrency pages
+- Added loading and fallback UI for asynchronous data
+- Used environment variables to securely configure API access
+- Designed responsive layouts for desktop, tablet, and mobile
+  
 ## Screenshots
 
 ### Home
@@ -171,8 +182,6 @@ CoinPulse/
 └── README.md
 ```
 
-> The structure above can be adjusted to match the final structure of the repository.
-
 ## Getting Started
 
 ### Prerequisites
@@ -263,7 +272,7 @@ Building CoinPulse helped me strengthen my understanding of:
 * Building responsive interfaces with Tailwind CSS
 * Handling loading and fallback states
 * Structuring a scalable frontend codebase
-* Working with financial and cryptocurrency market
+* Working with cryptocurrency and financial market data
 
 ## Future Improvements
 
