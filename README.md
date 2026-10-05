@@ -263,4 +263,34 @@ Building CoinPulse helped me strengthen my understanding of:
 * Building responsive interfaces with Tailwind CSS
 * Handling loading and fallback states
 * Structuring a scalable frontend codebase
-* Working with financial and cryptoc
+* Working with financial and cryptocurrency market
+
+## Future Improvements
+
+Potential improvements for future versions include:
+
+* Interactive historical price charts
+* Cryptocurrency watchlists
+* User authentication
+* Portfolio tracking
+* Price alerts
+* Cryptocurrency comparison
+* Multiple fiat currency support
+* Improved market analytics
+* Dark/light theme customization
+* More advanced filtering and sorting
+
+## Disclaimer
+
+CoinPulse is an educational and portfolio project. Cryptocurrency market data is provided through third-party APIs and should not be considered financial advice.
+
+## Author
+
+Shruti Hiraman Kotgire
+
+Software Engineer | Full-Stack Developer
+
+* GitHub: shrutikotgire0129
+* LinkedIn: Shruti Kotgire
+
+⭐ If you find this project interesting, consider giving the repository a star.
