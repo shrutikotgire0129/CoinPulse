@@ -4,7 +4,14 @@
 
 CoinPulse is a responsive crypto market application that allows users to explore cryptocurrency prices, market statistics, search for coins, and view detailed information about individual cryptocurrencies through a clean and intuitive interface.
 
-The project focuses on building a production-style frontend with current cryptocurrency market data, reusable components, API integration, responsive layouts, and a structured Next.js application architecture.
+The project focuses on building a production-style frontend with current cryptocurrency market data, reusable components, API integration, responsive layouts, and a structured Next.js application architecture.  
+<div align="center">
+
+<a href="https://coin-pulse-eight-rho.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-CoinPulse-6247AA?style=for-the-badge" alt="Live Demo">
+</a>
+
+</div>
 
 ## Features
 
